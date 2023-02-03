@@ -6,7 +6,9 @@ This application is a timed coding assessment.
 
 ## Usage
 
-Link to deployed application: https://thafer1.github.io/Coding-Quiz/
+Link to deployed application: [https://thafer1.github.io/Coding-Quiz/](https://thafer1.github.io/Coding-Quiz/)
+
+<img src= "assets\README_ss.png">
 
 ## Credits
 
