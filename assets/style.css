@@ -1,7 +1,22 @@
 body {
-    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+}
+
+.highScores {
+    position: absolute;
+}
+
+.timer {
+    text-align: right;
+}
+
+.main {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .startButton {
