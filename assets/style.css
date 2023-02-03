@@ -4,7 +4,7 @@ body {
     font-size: large;
 }
 
-button {
+.startButton {
     font-size: large;
     color: white;
     background-color: darkviolet;
@@ -16,4 +16,3 @@ button {
 button:hover {
     background-color: violet;
 }
-
